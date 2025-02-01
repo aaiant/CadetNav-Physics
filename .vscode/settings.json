@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "new": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp"
+    }
+}
